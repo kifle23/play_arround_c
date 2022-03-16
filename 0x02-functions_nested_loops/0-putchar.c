@@ -1,12 +1,5 @@
-#include "main.h"
-
-/**
- * main - prints _putchar
- *
- * Description: prints _putchar
- *
- * Return: 0 (Success)
- */
+f02ca4ae0d86:~/alx-low_level_programming/0x02-functions_nested_loops# vi 0-putchar.c
+int _putchar(char c);
 
 int main(void)
 {
