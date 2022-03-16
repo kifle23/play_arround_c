@@ -4,9 +4,9 @@ f02ca4ae0d86:~/alx-low_level_programming/0x02-functions_nested_loops# vi 0-putch
 int main(void)
 {
 	char text[8] = "_putchar";
-	//int i = 0;
+	int i = 0;
 
-	for (int i = 0; i < 8; i++)
+	for (i = 0; i < 8; i++)
 	{
 		_putchar(text[i]);
 	}
