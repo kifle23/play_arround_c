@@ -1,5 +1,5 @@
 f02ca4ae0d86:~/alx-low_level_programming/0x02-functions_nested_loops# vi 0-putchar.c
-int _putchar(char c);
+#include "main.h"
 
 int main(void)
 {
