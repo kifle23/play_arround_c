@@ -2,9 +2,8 @@
 #include <stdio.h>
 
 /**
- * wildcmp - check the code for Holberton School students.
- * @s1: string
- * @s2: string
+ * main - check the code
+ *
  * Return: Always 0.
  */
 
